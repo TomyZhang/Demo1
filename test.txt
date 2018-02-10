@@ -1,4 +1,4 @@
 
 change in develop!
 
-test normal merge.
+develop add conflict here.

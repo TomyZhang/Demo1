@@ -1,12 +1,2 @@
 
 test5
-
-from develop
-
-from master
-
-from develop
-
-form develop
-
-from develop stash
